@@ -6,14 +6,16 @@ library(DBI)
 library(RPostgres)
 
 # Establish connection
-# NOTE: Database credentials have been removed for security
-# To run this script, you need access credentials to the Ecocrisis database
-# Contact the Ecocrisis project administrators at ecocrisis.net
+# NOTE: Database credentials and connection details have been removed for security
+# To run this script, you need:
+# 1. Access credentials to the Ecocrisis database
+# 2. Database host and connection information
+# Contact the Ecocrisis project administrators at ecocrisis.net for access
 con <- DBI::dbConnect(
   RPostgres::Postgres(),
-  host = "clio.cc.binghamton.edu",
-  port = 5432,
-  dbname = "ecocrisis",
+  host = Sys.getenv("ECOCRISIS_HOST"),
+  port = as.integer(Sys.getenv("ECOCRISIS_PORT")),
+  dbname = Sys.getenv("ECOCRISIS_DBNAME"),
   user = Sys.getenv("ECOCRISIS_USER"),
   password = Sys.getenv("ECOCRISIS_PASSWORD")
 )

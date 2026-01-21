@@ -65,11 +65,9 @@ reconstructions of the soil moisture balance during the late pre-Hispanic, colon
 and modern eras. Quaternary Science Reviews, 149, 34-60.
 ```
 
-## Database Connection Details
+## Database Access
 
-- **Host:** clio.cc.binghamton.edu
-- **Database:** ecocrisis
-- **Export Date:** January 21, 2026
+This data was exported from the Ecocrisis database on January 21, 2026. For database access, contact the Ecocrisis project administrators at [ecocrisis.net](https://ecocrisis.net).
 
 ## Reproducibility
 

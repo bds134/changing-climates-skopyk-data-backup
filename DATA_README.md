@@ -3,10 +3,9 @@
 **Date Created:** January 21, 2026  
 **Purpose:** Preserve the state of the crowdsourced Ecocrisis database as used in this analysis
 
-## Database Connection Details
-- **Host:** clio.cc.binghamton.edu
-- **Database:** ecocrisis
+## Database Snapshot Information
 - **Date of Snapshot:** 2026-01-21
+- **Source:** Ecocrisis database (contact administrators at ecocrisis.net for access)
 
 ## Exported Data Files
 
