@@ -49,8 +49,7 @@ See [README.md](README.md) for complete documentation of the data export process
 If you use this data, please cite both the original paper and this repository:
 
 ```
-Skopyk, Brad. (2026). Data Snapshot: Changing Climates and Demographic Change 
-in Colonial Mexico, 1578-1706 [Data set]. GitHub. 
+Skopyk, Brad. (2026). Data Snapshot: Climate and Health in Colonial Mexico: A Spatio-Temporal Approach to Assessing the Role of Climate Change [Data set]. GitHub. 
 https://github.com/bds134/changing-climates-skopyk-data-backup
 ```
 
