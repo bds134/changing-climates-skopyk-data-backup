@@ -1,10 +1,10 @@
-# Data Snapshot: Changing Climates and Demographic Change in Colonial Mexico
+# Data Snapshot: Climate and Health in Colonial Mexico: A Spatio-Temporal Approach to Assessing the Role of Climate Change
 
 ## About
 
 This repository contains a snapshot of data from the [Ecocrisis database](https://ecocrisis.net) and the Mexican Drought Atlas (Stahle et al. 2016) as used in the article:
 
-> Skopyk, Brad. "Changing Climates and Demographic Change in Colonial Mexico, 1578-1706." *Dumbarton Oaks Papers*, forthcoming.
+> Skopyk, Brad. "Climate and Health in Colonial Mexico: A Spatio-Temporal Approach to Assessing the Role of Climate Change." *Dumbarton Oaks*, forthcoming (2026).
 
 ## Why This Backup Exists
 
