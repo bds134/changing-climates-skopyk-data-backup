@@ -78,6 +78,6 @@ This work is licensed under CC0 1.0 Universal (Public Domain Dedication). While 
 
 ## Contact
 
- [Brad Skopyk](mailto:bskopyk@binghamton.edu).
+For questions about this data snapshot, please contact [Brad Skopyk](mailto:bskopyk@binghamton.edu).
 
 For questions about the Ecocrisis database, visit [ecocrisis.net](https://ecocrisis.net).
